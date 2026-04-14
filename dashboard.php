@@ -45,8 +45,8 @@
                 <a href="#" class="flex items-center p-3 bg-blue-50 text-blue-600 rounded-2xl font-semibold">
                     <i class="fas fa-th-large mr-3 text-lg"></i> Dashboard
                 </a>
-                <a href="data-penyewa.html" class="flex items-center p-3 text-slate-500 hover:bg-slate-50 hover:text-slate-800 rounded-2xl transition">
-                    <i class="fas fa-file-invoice-dollar mr-3 text-lg"></i> Data Penyewa
+                <a href="transaksi.php" class="flex items-center p-3 text-slate-500 hover:bg-slate-50 hover:text-slate-800 rounded-2xl transition">
+                    <i class="fas fa-file-invoice-dollar mr-3 text-lg"></i> Transaksi
                 </a>
             </nav>
 
@@ -107,7 +107,7 @@
                         
                         <div class="bg-white p-5 rounded-[2.5rem] shadow-sm border border-slate-100 group hover:shadow-xl transition-all duration-300">
                             <div class="bg-slate-100 h-40 rounded-[2rem] mb-4 flex items-center justify-center relative overflow-hidden">
-                                <img src="https://tse4.mm.bing.net/th/id/OIP.37RoU4YluO9SW5Ye0OULVgHaH6?pid=Api&P=0&h=180" alt="iPhone 15 Pro Max" class="h-[90%] w-full object-contain group-hover:scale-110 transition-all duration-500 drop-shadow-md">
+                                <img src="https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=500&auto=format&fit=crop" alt="iPhone 15 Pro Max" class="h-[90%] w-full object-contain group-hover:scale-110 transition-all duration-500 drop-shadow-md">
                                 <span class="absolute top-4 right-4 bg-green-500 text-white text-[10px] font-bold px-3 py-1 rounded-full z-10">READY</span>
                             </div>
                             <h4 class="text-lg font-bold">iPhone 15 Pro Max</h4>
@@ -122,11 +122,11 @@
 
                         <div class="bg-white p-5 rounded-[2.5rem] shadow-sm border border-slate-100 group hover:shadow-xl transition-all duration-300">
                             <div class="bg-slate-100 h-40 rounded-[2rem] mb-4 flex items-center justify-center relative overflow-hidden">
-                                <img src="https://tse3.mm.bing.net/th/id/OIP.USa__2efKAS9fOfQCl3FegHaHa?pid=Api&P=0&h=180" alt="iPhone 14 Pro" class="h-[90%] w-full object-contain group-hover:scale-110 transition-all duration-500 drop-shadow-md">
+                                <img src="https://images.unsplash.com/photo-1678652197831-2d180705cd2c?q=80&w=500&auto=format&fit=crop" alt="iPhone 14 Pro" class="h-[90%] w-full object-contain group-hover:scale-110 transition-all duration-500 drop-shadow-md">
                                 <span class="absolute top-4 right-4 bg-green-500 text-white text-[10px] font-bold px-3 py-1 rounded-full z-10">READY</span>
                             </div>
                             <h4 class="text-lg font-bold">iPhone 14 Pro</h4>
-                            <p class="text-xs text-slate-400 mb-4 font-medium italic">White • 128GB</p>
+                            <p class="text-xs text-slate-400 mb-4 font-medium italic">Deep Purple • 128GB</p>
                             <div class="flex items-center justify-between pt-4 border-t border-slate-50">
                                 <p class="text-lg font-black text-blue-600">Rp 400k<span class="text-[10px] text-slate-400 font-normal">/hari</span></p>
                                 <button onclick="tambahUnit('iPhone 14 Pro')" class="w-10 h-10 rounded-xl bg-slate-900 text-white hover:bg-blue-600 active:scale-90 transition shadow-lg flex items-center justify-center">
@@ -137,11 +137,11 @@
 
                         <div class="bg-white p-5 rounded-[2.5rem] shadow-sm border border-slate-100 group">
                             <div class="bg-slate-100 h-40 rounded-[2rem] mb-4 flex items-center justify-center relative overflow-hidden">
-                                <img src="https://tse4.mm.bing.net/th/id/OIP.VQrswGehW-YCu2M02Gc2qQHaHa?pid=Api&P=0&h=180" alt="iPhone 13" class="h-[90%] w-full object-contain opacity-50 drop-shadow-sm">
+                                <img src="https://images.unsplash.com/photo-1632661674596-df8be070a5c5?q=80&w=500&auto=format&fit=crop" alt="iPhone 13" class="h-[90%] w-full object-contain opacity-50 drop-shadow-sm">
                                 <span class="absolute top-4 right-4 bg-slate-400 text-white text-[10px] font-bold px-3 py-1 rounded-full z-10">BOOKED</span>
                             </div>
                             <h4 class="text-lg font-bold text-slate-400">iPhone 13</h4>
-                            <p class="text-xs text-slate-300 mb-4 font-medium italic">pink • 128GB</p>
+                            <p class="text-xs text-slate-300 mb-4 font-medium italic">Starlight • 128GB</p>
                             <div class="flex items-center justify-between pt-4 border-t border-slate-50">
                                 <p class="text-lg font-black text-slate-300">Rp 250k</p>
                                 <button class="w-10 h-10 rounded-xl bg-slate-100 text-slate-400 cursor-not-allowed flex items-center justify-center">
